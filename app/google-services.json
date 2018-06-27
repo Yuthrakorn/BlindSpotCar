@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747100154451",
+    "firebase_url": "https://blindspotcar-9c587.firebaseio.com",
+    "project_id": "blindspotcar-9c587",
+    "storage_bucket": "blindspotcar-9c587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747100154451:android:347e496c865bbb0a",
+        "android_client_info": {
+          "package_name": "com.example.yuthrakorn.blindspotcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747100154451-5jjhrru3f7ki1hp57ebivgupekn534e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yuthrakorn.blindspotcar",
+            "certificate_hash": "fc4f2d76a5a2b610c4867505464cfbe0ae6bf60a"
+          }
+        },
+        {
+          "client_id": "747100154451-h5616ak2absd19tk1kdpcepmvvpeo983.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-02HdszMDTaS68ycGkqlvhnkbQBVyhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747100154451-h5616ak2absd19tk1kdpcepmvvpeo983.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
